@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/robosearch/static/css/main.bb305344.css",
-    "main.js": "/robosearch/static/js/main.b319e743.js",
+    "main.js": "/robosearch/static/js/main.c2209e26.js",
     "static/js/787.32032a02.chunk.js": "/robosearch/static/js/787.32032a02.chunk.js",
     "index.html": "/robosearch/index.html",
     "main.bb305344.css.map": "/robosearch/static/css/main.bb305344.css.map",
-    "main.b319e743.js.map": "/robosearch/static/js/main.b319e743.js.map",
+    "main.c2209e26.js.map": "/robosearch/static/js/main.c2209e26.js.map",
     "787.32032a02.chunk.js.map": "/robosearch/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb305344.css",
-    "static/js/main.b319e743.js"
+    "static/js/main.c2209e26.js"
   ]
 }
